@@ -1,8 +1,9 @@
 # seminar02
+#### Jan 11, 2017
 
 Name: Vivian Lac
 
 Links
 
 Seminars
-https://github.com/vivianlac/seminar02/tree/master/seminars
+[Seminar01](https://github.com/vivianlac/seminar02/tree/master/seminars)
