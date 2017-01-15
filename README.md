@@ -1,4 +1,4 @@
-# seminar02
+# seminar01
 #### Jan 11, 2017
 
 Name: Vivian Lac
